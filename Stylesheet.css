@@ -1,0 +1,167 @@
+
+body {
+font-family: arial; 
+background-color: grey;}
+h1 {
+font-family: algerian;}
+
+<!-- CSS Layout Anfang -->
+body{
+width: 960px;
+margin: 0 auto;}
+<!-- CSS Layout Ende -->
+
+<!-- CSS Farben text Anfang -->
+h1 {
+color:blue;}
+h2 {
+color:yellow;}
+p {
+color:White;}
+b {
+color:blue;}
+i {
+color:rgb(180, 97, 97);}
+a {
+color: rgb(255, 255, 255);}
+strong {
+color:rgba(207, 130, 185, 0.991);}
+dt {
+color:white;}
+dd {
+color:yellow;}
+legend {
+color:White;}
+fieldset {
+color:White;}
+<!-- CSS Farben text Ende -->
+
+<!-- CSS Zeilenabstand text Anfang -->
+h1 {
+line-height: 3em;}
+h2 {
+line-height: 5em;}
+p {
+line-height: 1,4em;}
+<!-- CSS Zeilenabstand text Ende -->
+
+<!-- CSS Ausrichtung text Anfang -->
+body { 
+text-align: center;}
+h1 {
+text-align: center;}
+h2 {
+text-align: left;}
+h3 {
+text-align: center;}
+p {
+text-align: left;}
+dd {
+text-align: center;}
+dt {
+text-align: center;}
+fieldset {
+text-align: left;}
+<!-- CSS Ausrichtung text Ende -->
+
+<!-- CSS Boxen text Anfang -->
+p.one {
+width: 80px;
+height: 300px;
+background-color: blue; }
+p.one {
+width: 50%;
+height: 75%;
+background-color: rgb(128, 59, 128); }
+p.one {
+border-style: solid; 
+border-color: black;
+border-width: thick;
+padding: 10px;
+border-radius: 10px;}
+
+input[type="submit"] {
+border: 1px solid;
+color: grey;
+background-color: black;
+padding: 10px;
+margin-top: 5px;}
+
+<!-- CSS Boxen text Ende -->
+
+<!-- CSS Deklarationen text Anfang -->
+a {
+cursor: crosshair; }
+a {
+text-decoration: none;}
+h2.passiv {
+width: 500px;
+float: left;
+margin: 20px;
+padding: 5px;
+background-color: rgb(44, 26, 115)}
+dd.passiv {
+width: 210px;
+float: left;
+margin: 20px;
+padding: 5px;
+background-color: rgb(44, 26, 115)}
+dt.passiv {
+width: 230px;
+float: left;
+margin: 70px;
+padding: 5px;
+background-color: rgb(44, 26, 115)}
+
+h2.aktiv {
+width: 500px;
+float: left;
+margin: 20px;
+padding: 5px;
+background-color: rgb(58, 90, 58)}
+dd.aktiv {
+width: 210px;
+float: left;
+margin: 20px;
+padding: 5px;
+background-color: rgb(58, 90, 58)}
+dt.aktiv {
+width: 230px;
+float: left;
+margin: 70px;
+padding: 5px;
+background-color: rgb(58, 90, 58)}
+h1 {
+position: fixed;
+top: 0%;
+margin: 0px auto;
+padding: 0px;
+width: 100%;
+background-color: aqua;}
+h3 {
+width: 500px;
+float: center;
+margin: 60px auto;
+padding: 10px;
+background-color: rgb(102, 255, 1)}
+li.one {
+width: 100px;
+float: left;
+margin: 5px;
+padding: 0px;
+background-color: rgb(128, 59, 128)}
+li.two {
+width: 100px;
+float: left;
+margin: 5px;
+padding: 0px;
+background-color: rgb(128, 59, 128)}
+li.three {
+width: 100px;
+float: left;
+margin: 5px;
+padding: 0px;
+background-color: rgb(128, 59, 128)}
+
+
+<!-- CSS Deklarationen text Ende -->

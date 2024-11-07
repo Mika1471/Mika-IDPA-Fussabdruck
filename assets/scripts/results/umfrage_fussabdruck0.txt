@@ -1,6 +1,33 @@
 {
-    "name": "mikka",
-    "email": "swbr@proton.me",
-    "phone": "hsaj",
-    "rating": "yes"
+    "form_data": {
+        "name": "Seya Weber",
+        "email": "swbr@proton.me",
+        "phone": "079 899 11 12",
+        "rating": "no"
+    },
+    "request_data": {
+        "user_ip": "127.0.0.1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/130.0.0.0 Safari\/537.36",
+        "request_time": "2024-11-07 08:03:36",
+        "referer": "http:\/\/localhost:63342\/Mika-IDPA-Fussabdruck\/index.html?_ijt=120h91s449l5mke5d5ddm4bgf&_ij_reload=RELOAD_ON_SAVE",
+        "language": "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
+        "encoding": "gzip, deflate, br, zstd",
+        "connection_type": "unknown",
+        "server_protocol": "HTTP\/1.1",
+        "request_method": "POST",
+        "query_string": "",
+        "server_name": "PhpStorm 2024.2.4",
+        "server_address": "127.0.0.1",
+        "server_port": "63342",
+        "script_name": "\/Mika-IDPA-Fussabdruck\/assets\/scripts\/save_form.php",
+        "request_uri": "\/Mika-IDPA-Fussabdruck\/assets\/scripts\/save_form.php",
+        "content_type": "application\/x-www-form-urlencoded",
+        "content_length": "95"
+    },
+    "session_data": [],
+    "cookie_data": {
+        "Idea-717e275": "f174ce46-bd95-4eeb-97ee-c8d6b2386cc6",
+        "Phpstorm-9c97d298": "de0d7217-66dc-4ff1-9e32-c9f6f183da36",
+        "PHPSESSID": "4ofs2e5une5fd1bnv5ff3a7dtb"
+    }
 }

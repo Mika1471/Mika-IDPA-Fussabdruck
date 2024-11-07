@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $formData = [
         'name' => $_POST['name'],
         'email' => $_POST['email'],
-        'phone' => $_POST['Phone Number'],
+        'phone' => $_POST['number'],
         'rating' => $_POST['rating']
     ];
 

@@ -1,0 +1,6 @@
+{
+    "name": "mikka",
+    "email": "swbr@proton.me",
+    "phone": "hsaj",
+    "rating": "yes"
+}
